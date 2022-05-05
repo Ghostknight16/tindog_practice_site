@@ -60,7 +60,7 @@ p {
 .nav-link {
   font-size: 1.2rem;
   font-family: Montserrat;
-  font-weight: 100;
+  font-weight: 400;
 }
 
 /* Download Buttons */
@@ -166,6 +166,10 @@ p {
     text-align: center
   }
 
+  #title .container-fluid {
+    text-align: center;
+  }
+  
   .title-img {
     position: static;
     transform: rotate(0);
